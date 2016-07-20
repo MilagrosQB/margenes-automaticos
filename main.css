@@ -1,0 +1,17 @@
+.one {
+	display:block;
+	width: 250px;
+	height: 240px;
+	background:#FFFFFF;
+	border:15px solid #FCF632;
+	margin:10px;
+	padding-top:25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	}
+.two{
+	background:#FFFFFF;
+	text-align: center;
+	font-size: 16px;
+	margin:25px;
+}
